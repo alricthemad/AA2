@@ -10,10 +10,27 @@
             "topLevel": true,
             "allAtoms": [
                 {
+                    "atomType": "Rectangle",
+                    "name": "Rectangle",
+                    "x": 392,
+                    "y": 352,
+                    "uniqueID": 708807,
+                    "ioValues": [
+                        {
+                            "name": "x length",
+                            "ioValue": 24
+                        },
+                        {
+                            "name": "y length",
+                            "ioValue": 23.125
+                        }
+                    ]
+                },
+                {
                     "atomType": "Output",
                     "name": "Output",
-                    "x": 1870,
-                    "y": 252,
+                    "x": 396,
+                    "y": 352,
                     "ioValues": []
                 }
             ],
